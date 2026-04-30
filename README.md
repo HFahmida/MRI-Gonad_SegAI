@@ -61,7 +61,7 @@ python Ovary-cyst_volume_extraction.py
 
 **Dataset101_MRI-testie:** Testicular Whole model trained using T2W MRI
 
-**Dataset101_MRI-testie:** Testicular side-separated model trained using T2W MRI
+**Dataset102_MRI-testie:** Testicular side-separated model trained using T2W MRI
 
 ```
 sbatch inference_Testicular_AI_model.sh 
